@@ -20,35 +20,35 @@
 
 ## Few glimpses of EDA:
 ### 1. Churn distribution:
-> ![Churn distribution](https://github.com/ashwin044/Consumer-Churn/blob/main/Output/churn%20percentage.png)
+> ![Churn distribution](https://github.com/ashwin044/Consumer-Churn/blob/main/Output/churn%20percentage.png)<br>
 > 26.6 % of customers switched to another firm.
 
 ### 2. Churn distribution with respect to gender:
-> ![Churn distribution wrt Gender](https://github.com/ashwin044/Consumer-Churn/blob/main/Output/Churn%20Distribution%20w.r.t%20Gender%20Male(M)%2C%20Female(F).png)
+> ![Churn distribution wrt Gender](https://github.com/ashwin044/Consumer-Churn/blob/main/Output/Churn%20Distribution%20w.r.t%20Gender%20Male(M)%2C%20Female(F).png)<br>
 > There is negligible difference in customer percentage/count who chnaged the service provider. Both genders behaved in similar fashion when it comes to migrating to another service provider/firm.`
 
 ### 3. Customer Contract distribution:
-> ![Customer contract distribution](https://github.com/ashwin044/Consumer-Churn/blob/main/Output/Customer%20contract%20distribution.png)
+> ![Customer contract distribution](https://github.com/ashwin044/Consumer-Churn/blob/main/Output/Customer%20contract%20distribution.png)<br>
 > About 75% of customer with Month-to-Month Contract opted to move out as compared to 13% of customrs with One Year Contract and 3% with Two Year Contract
 
 ### 4. Payment Methods:
-> ![Distribution of Payments methods](https://github.com/ashwin044/Consumer-Churn/blob/main/Output/Customer%20Payment%20Method%20distribution%20w.r.t.%20Churn.png) ![Churn wrt payment methods](https://github.com/ashwin044/Consumer-Churn/blob/main/Output/Customer%20Payment%20Method%20distribution%20w.r.t.%20Churn_1.png)
+> ![Distribution of Payments methods](https://github.com/ashwin044/Consumer-Churn/blob/main/Output/Customer%20Payment%20Method%20distribution%20w.r.t.%20Churn.png) ![Churn wrt payment methods](https://github.com/ashwin044/Consumer-Churn/blob/main/Output/Customer%20Payment%20Method%20distribution%20w.r.t.%20Churn_1.png)<br>
 > Major customers who moved out were having Electronic Check as Payment Method.
 > Customers who opted for Credit-Card automatic transfer or Bank Automatic Transfer and Mailed Check as Payment Method were less likely to move out.
 
 ### 5. Internet services:
 > Several customers choose the Fiber optic service and it's also evident that the customers who use Fiber optic have high churn rate, this might suggest a dissatisfaction with this type of internet service.
-> Customers having DSL service are majority in number and have less churn rate compared to Fibre optic service.
+> Customers having DSL service are majority in number and have less churn rate compared to Fibre optic service.<br>
 ![Churn distribution w.r.t Internet services and Gender](https://github.com/ashwin044/Consumer-Churn/blob/main/Output/Churn%20w.r.t%20Internet%20Service%20Type.png)
 
 ### 6. Online Security:
-> As shown in following graph, most customers churn due to lack of online security
+> As shown in following graph, most customers churn due to lack of online security<br>
 ![Churn distribution w.r.t online security](https://github.com/ashwin044/Consumer-Churn/blob/main/Output/Churn%20w.r.t%20Online%20Security.png)
 
 ### 7. Paperless Billing:
-> Customers with Paperless Billing are most likely to churn.
+> Customers with Paperless Billing are most likely to churn.<br>
 ![Churn distribution w.r.t mode of billing](https://github.com/Pradnya1208/Telecom-Customer-Churn-prediction/blob/main/output/billing.PNG?raw=true)
 
 ### 8. Distribution w.r.t Tenure:
-> ![Tenure](https://github.com/ashwin044/Consumer-Churn/blob/main/Output/Tenure%20vs%20Churn.png)
+> ![Tenure](https://github.com/ashwin044/Consumer-Churn/blob/main/Output/Tenure%20vs%20Churn.png)<br>
 > New customers are more likely to churn.
